@@ -1,0 +1,14 @@
+{
+    "name": "todo-atom-123",
+    "theme": "syntax",
+    "version": "0.0.0",
+    "description": "todo-atom",
+    "keywords": [
+      "todo-atom"
+    ],
+    "repository": "https://github.com/PopsanAemaos/todo-atom.git",
+    "license": "MIT",
+    "engines": {
+      "atom": ">=1.0.0 <2.0.0"
+    }
+  }
